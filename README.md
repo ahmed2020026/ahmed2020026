@@ -9,22 +9,9 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode,figma,nodejs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
 </p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed2020026&show_icons=true&theme=dark&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed2020026&theme=dark&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed2020026&layout=compact&theme=dark&hide_border=true" height="180" />
-</p>
-
----
 
 ## 🚀 Featured Projects
 ### 🔥 [E-Commerce Platform](https://github.com/ahmed2020026/ecommerce-platform)
