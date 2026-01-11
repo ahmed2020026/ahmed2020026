@@ -63,17 +63,17 @@ Built the full front-end of an educational platform including Home, Courses, Cou
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/a7med-samir" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/a7med-samir">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoOnly=true"/>
   </a>
-  <a href="https://a7med-portfolio.vercel.app/" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
+  <a href="https://a7med-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoOnly=true"/>
   </a>
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
+  <a href="https://www.facebook.com/">
+    <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoOnly=true"/>
   </a>
-  <a href="mailto:ahmedsamirhad17@gmail.com" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  <a href="mailto:ahmedsamirhad17@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoOnly=true"/>
   </a>
 </p>
 
