@@ -34,7 +34,6 @@
   <b>OOP • Data Structures • SQL</b>
 </p>
 
-
 ---
 
 ## 🚀 Featured Projects
@@ -64,12 +63,16 @@ Built the full front-end of an educational platform including Home, Courses, Cou
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed2020026&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed2020026&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmed2020026&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed2020026&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmed2020026&theme=onestar&no-frame=true&row=1"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed2020026&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmed2020026&theme=onestar&no-frame=true&row=1&margin-w=10" />
 </p>
 
 ---
