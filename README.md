@@ -24,8 +24,13 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,redux,git,github,vercel,figma" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,react,bootstrap,tailwind,php,mysql,git,github,vercel,figma" />
 </p>
+
+<p align="center">
+  <b>OOP • Data Structures • SQL</b>
+</p>
+
 
 ---
 
