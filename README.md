@@ -5,7 +5,7 @@
 <h2 align="center">Front-End Developer | React.js | TypeScript | Modern Web Apps 🚀</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=React+Developer;TypeScript+Specialist;E-Commerce+%26+Dashboards;High+Performance+Web+Apps;Future+Full+Stack+Engineer&center=true&width=650&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=React+Developer;TypeScript+Specialist;E-Commerce+%26+Dashboards;High+Performance+Web+Apps;Clean+UI+%26+UX&center=true&width=650&height=45">
 </p>
 
 ---
@@ -16,15 +16,15 @@
 - 🧠 Strong in **JavaScript (ES6+), TailwindCSS, Redux Toolkit**
 - 🛒 Built **E-commerce platforms & Admin Dashboards**
 - 📊 Focused on **Performance, SEO & Accessibility**
-- 🌍 Experience with **APIs, Git/GitHub & Vercel**
-- 🎯 Goal: Become a **Professional Full-Stack Web Developer**
+- 🌍 Experience with **Git, GitHub & Vercel deployment**
+- 🎯 Passionate about building **real-world web applications**
 
 ---
 
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,redux,php,mysql,git,github,vercel,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,redux,git,github,vercel,figma" />
 </p>
 
 ---
@@ -33,14 +33,14 @@
 
 ### 🛒 Quick Cart – E-Commerce  
 **React • TypeScript • TailwindCSS • APIs**  
-Dynamic product pages, responsive design for all devices, and real-time API integration for live product updates. Optimized for performance and user experience.  
+Dynamic product pages, fully responsive design, and real-time API integration for live product updates. Optimized for performance and smooth user experience.  
 🔗 **Live:** https://quick-cart-flame-mu.vercel.app/
 
 ---
 
 ### 📊 G-Store Admin Dashboard  
 **React • TailwindCSS • Redux Toolkit • REST APIs**  
-Admin system for managing users, products, orders, and reviews with full CRUD operations.  
+Admin panel to manage users, products, orders, and reviews with full CRUD operations.  
 Performance 92% | Accessibility 96% | Best Practices 100%  
 🔗 **Live:** https://g-store-dashboard.vercel.app/
 
@@ -48,7 +48,7 @@ Performance 92% | Accessibility 96% | Best Practices 100%
 
 ### 🛍 G-Store E-Commerce  
 **React • TailwindCSS • REST APIs**  
-Dynamic product pages, filtering, and a fully functional shopping cart with real-time updates.  
+Dynamic product pages, advanced filtering, and a complete shopping cart with live updates.  
 SEO 91% | Performance 98% | Accessibility 96%  
 🔗 **Live:** https://ahmed2020026.github.io/e-commerce/
 
@@ -56,12 +56,12 @@ SEO 91% | Performance 98% | Accessibility 96%
 
 ### 🎓 Educational Platform – Graduation Project  
 **HTML • CSS • JavaScript • TailwindCSS**  
-Full front-end of an educational platform with Home, Courses, Course Details, and Authentication pages — fully responsive and API-ready.  
+Built the full front-end of an educational platform including Home, Courses, Course Details, and Authentication pages — fully responsive and API-ready.  
 🔗 **Live:** https://embedskill.tryasp.net/
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmed2020026&show_icons=true&theme=tokyonight&hide_border=true"/>
