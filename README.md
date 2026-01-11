@@ -1,84 +1,84 @@
-<h1 align="center">Hi 👋, I'm Ahmed Samir</h1>
-<h3 align="center">Front-End Developer | React.js | Building Real Web Apps</h3>
+# Ahmed Samir  
+**Front-End Developer | React.js | Full-Stack in Progress**
+
+I build modern, scalable web applications with a strong focus on performance, clean architecture, and real-world usability.  
+I specialize in **React.js** on the front-end and I actively work with **PHP, MySQL, and APIs** on the back-end.
 
 ---
 
-## 🚀 About Me
-- 💻 Front-End Developer specialized in **React.js**
-- 🔥 Building **real projects** (E-commerce, Dashboards, Full-Stack apps)
-- 🌱 Currently improving my **Back-End skills (PHP, MySQL, APIs)**
-- 🎯 Goal: Become a **Professional Full-Stack Web Developer**
-- 🤝 Open to **freelance, internships, and junior roles**
+## 🧩 What I Do
+- Develop **responsive web applications** using React
+- Build **full-stack systems** (Auth, Dashboards, Orders, Products)
+- Convert UI designs (Figma) into **pixel-perfect interfaces**
+- Write **clean, maintainable code**
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Tech Stack
 
-### Front-End
-![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+**Front-End**
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, TypeScript
+- Responsive Design, UI Optimization
 
-### Back-End
-![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+**Back-End**
+- PHP
+- MySQL
+- REST APIs
+- Authentication & Authorization
 
-### Tools
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
-
----
-
-## 📂 Featured Projects
-
-### 🛒 Full-Stack E-commerce  
-> React + PHP + MySQL  
-✔ Authentication  
-✔ Cart System  
-✔ Dashboard  
-✔ APIs  
-
-🔗 **Repo:** (add link here)
+**Tools**
+- Git & GitHub
+- Figma
+- VS Code
 
 ---
 
-### 📊 Admin Dashboard  
-> React + APIs  
-✔ User Management  
-✔ Orders  
-✔ Products  
+## 📌 Selected Projects
 
-🔗 **Repo:** (add link here)
+### E-commerce Platform (Full-Stack)
+A complete shopping system built with React, PHP and MySQL.
 
----
+**Features**
+- User authentication
+- Products & Categories
+- Cart & Orders
+- Admin dashboard
+- REST APIs
 
-### 🌐 Portfolio Website  
-> Modern responsive portfolio
-
-🔗 **Repo:** (add link here)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedSamir&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedSamir&theme=tokyonight" />
-</p>
+🔗 Repository: *(add link)*
 
 ---
 
-## 📫 Contact Me
-- 💼 LinkedIn: *(add your link)*
-- 🌍 Portfolio: *(add your link)*
-- 📧 Email: *(add your email)*
+### Admin Dashboard
+A management system for handling users, products, and orders.
+
+**Features**
+- Role-based access
+- CRUD operations
+- API-driven data
+
+🔗 Repository: *(add link)*
 
 ---
 
-🔥 *Always learning, always building, always improving.*
+### Portfolio Website
+A modern portfolio to showcase projects and skills.
+
+🔗 Repository: *(add link)*
+
+---
+
+## 📊 GitHub Activity
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedSamir&show_icons=true&theme=github_dark)
+
+---
+
+## 📬 Contact
+- LinkedIn: *(your link)*
+- Portfolio: *(your link)*
+- Email: *(your email)*
+
+---
+
+*"Serious about building real products, not just writing code."*
