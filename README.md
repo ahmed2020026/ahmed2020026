@@ -63,16 +63,7 @@ Built the full front-end of an educational platform including Home, Courses, Cou
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ahmed2020026&show_icons=true&theme=tokyonight&hide_border=true" />
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed2020026&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=ahmed2020026&theme=onestar&no-frame=true&row=1&margin-w=10" />
-</p>
-
-<p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed2020026&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 ---
