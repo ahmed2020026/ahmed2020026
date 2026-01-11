@@ -69,7 +69,7 @@ Built the full front-end of an educational platform including Home, Courses, Cou
   <a href="https://a7med-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoOnly=true"/>
   </a>
-  <a href="https://www.facebook.com/">
+  <a href="https://www.facebook.com/share/16fc5S2dPs/">
     <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoOnly=true"/>
   </a>
   <a href="mailto:ahmedsamirhad17@gmail.com">
