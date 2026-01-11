@@ -62,7 +62,23 @@ Built the full front-end of an educational platform including Home, Courses, Cou
 
 ## 🌍 Connect With Me
 
-<a href="https://www.linkedin.com/in/a7med-samir"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoOnly=true"/> </a> <a href="https://a7med-portfolio.vercel.app/"> <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoOnly=true"/> </a> <a href="https://www.facebook.com/share/16fc5S2dPs/"> <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoOnly=true"/> </a> <a href="mailto:ahmedsamirhad17@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoOnly=true"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/a7med-samir">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoOnly=true"/>
+  </a>
+  <a href="https://a7med-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoOnly=true"/>
+  </a>
+  <a href="https://www.facebook.com/share/16fc5S2dPs/">
+    <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoOnly=true"/>
+  </a>
+  <a href="mailto:ahmedsamirhad17@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoOnly=true"/>
+  </a>
+  <a href="https://github.com/a7med-samir">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoOnly=true"/>
+  </a>
+</p>
 
 ---
 
