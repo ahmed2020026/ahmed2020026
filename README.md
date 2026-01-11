@@ -64,7 +64,7 @@ Built the full front-end of an educational platform including Home, Courses, Cou
 
 <p align="center">
   <a href="https://www.linkedin.com/in/a7med-samir">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoOnly=true"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-gray?style=for-the-badge&logo=linkedin&logoOnly=true"/>
   </a>
   <a href="https://a7med-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoOnly=true"/>
