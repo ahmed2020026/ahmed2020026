@@ -13,11 +13,14 @@
 ## 👨‍💻 About Me
 
 - ⚡ Front-End Developer specialized in **React.js & TypeScript**
-- 🧠 Strong in **JavaScript (ES6+), TailwindCSS, Redux Toolkit**
+- 🧠 Strong in **JavaScript (ES6+), TailwindCSS, Bootstrap**
 - 🛒 Built **E-commerce platforms & Admin Dashboards**
+- 🔗 Experienced in integrating **RESTful APIs**
+- 🛠 Back-End experience with **PHP, SQL, and MySQL**
+- 🗄 Working with **databases, authentication & data flow**
 - 📊 Focused on **Performance, SEO & Accessibility**
-- 🌍 Experience with **Git, GitHub & Vercel deployment**
-- 🎯 Passionate about building **real-world web applications**
+- 🌍 Using **Git, GitHub & Vercel** in real projects
+- 🎯 Goal: Become a **Professional Full-Stack Web Developer**
 
 ---
 
