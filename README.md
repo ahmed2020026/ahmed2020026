@@ -1,84 +1,82 @@
-# Ahmed Samir  
-**Front-End Developer | React.js | Full-Stack in Progress**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ahmed%20Samir&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-I build modern, scalable web applications with a strong focus on performance, clean architecture, and real-world usability.  
-I specialize in **React.js** on the front-end and I actively work with **PHP, MySQL, and APIs** on the back-end.
+<h2 align="center">Front-End Developer | React.js | Full-Stack Engineer in Progress 🚀</h2>
 
----
-
-## 🧩 What I Do
-- Develop **responsive web applications** using React
-- Build **full-stack systems** (Auth, Dashboards, Orders, Products)
-- Convert UI designs (Figma) into **pixel-perfect interfaces**
-- Write **clean, maintainable code**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Real+Web+Apps;React+Developer;Future+Full+Stack+Engineer;Clean+Code+%26+High+Performance&center=true&width=600&height=45">
+</p>
 
 ---
 
-## ⚙️ Tech Stack
+## 👨‍💻 About Me
 
-**Front-End**
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js, TypeScript
-- Responsive Design, UI Optimization
-
-**Back-End**
-- PHP
-- MySQL
-- REST APIs
-- Authentication & Authorization
-
-**Tools**
-- Git & GitHub
-- Figma
-- VS Code
+- ⚡ Front-End Developer specialized in **React.js**
+- 🧠 Strong in **JavaScript, TypeScript**
+- 🔥 Building **Full-Stack projects (PHP, MySQL, APIs)**
+- 🎯 Goal: Become a **World-Class Web Developer**
+- 💼 Looking for **freelance & junior opportunities**
 
 ---
 
-## 📌 Selected Projects
+## 🧠 Tech Stack
 
-### E-commerce Platform (Full-Stack)
-A complete shopping system built with React, PHP and MySQL.
-
-**Features**
-- User authentication
-- Products & Categories
-- Cart & Orders
-- Admin dashboard
-- REST APIs
-
-🔗 Repository: *(add link)*
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,mysql,git,github,figma" />
+</p>
 
 ---
 
-### Admin Dashboard
-A management system for handling users, products, and orders.
+## 🚀 Featured Projects
 
-**Features**
-- Role-based access
-- CRUD operations
-- API-driven data
+<table>
+<tr>
+<td width="50%">
 
-🔗 Repository: *(add link)*
+### 🛒 Full-Stack E-commerce  
+React + PHP + MySQL  
+✔ Auth  
+✔ Cart  
+✔ Orders  
+✔ Dashboard  
 
----
+🔗 Repo: *(add link)*
 
-### Portfolio Website
-A modern portfolio to showcase projects and skills.
+</td>
+<td width="50%">
 
-🔗 Repository: *(add link)*
+<img src="https://user-images.githubusercontent.com/74038190/212750450-5fdbd42c-5a5c-4d7a-98d3-4c27e7f5c6b6.gif" />
 
----
-
-## 📊 GitHub Activity
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedSamir&show_icons=true&theme=github_dark)
-
----
-
-## 📬 Contact
-- LinkedIn: *(your link)*
-- Portfolio: *(your link)*
-- Email: *(your email)*
+</td>
+</tr>
+</table>
 
 ---
 
-*"Serious about building real products, not just writing code."*
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedSamir&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedSamir&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AhmedSamir&theme=onestar&no-frame=true&row=1"/>
+</p>
+
+---
+
+## 🌍 Let's Connect
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
