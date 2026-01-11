@@ -64,16 +64,16 @@ Built the full front-end of an educational platform including Home, Courses, Cou
 
 <p align="center">
   <a href="https://www.linkedin.com/in/a7med-samir">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&logoOnly=true"/>
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=linkedin&logoColor=white&logoOnly=true"/>
   </a>
   <a href="https://a7med-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel&logoColor=white&logoOnly=true"/>
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=vercel&logoColor=white&logoOnly=true"/>
   </a>
   <a href="https://www.facebook.com/share/16fc5S2dPs/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&logoColor=white&logoOnly=true"/>
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=facebook&logoColor=white&logoOnly=true"/>
   </a>
   <a href="mailto:ahmedsamirhad17@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white&logoOnly=true"/>
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=gmail&logoColor=white&logoOnly=true"/>
   </a>
 </p>
 
