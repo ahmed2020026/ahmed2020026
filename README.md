@@ -60,14 +60,6 @@ Built the full front-end of an educational platform including Home, Courses, Cou
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed2020026&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🌍 Connect With Me
 
 <p align="center">
