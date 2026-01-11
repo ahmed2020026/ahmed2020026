@@ -54,14 +54,6 @@ Performance 92% | Accessibility 96% | Best Practices 100%
 
 ---
 
-### 🛍 G-Store E-Commerce  
-**React • TailwindCSS • REST APIs**  
-Dynamic product pages, advanced filtering, and a complete shopping cart with live updates.  
-SEO 91% | Performance 98% | Accessibility 96%  
-🔗 **Live:** https://ahmed2020026.github.io/e-commerce/
-
----
-
 ### 🎓 Educational Platform – Graduation Project  
 **HTML • CSS • JavaScript • TailwindCSS**  
 Built the full front-end of an educational platform including Home, Courses, Course Details, and Authentication pages — fully responsive and API-ready.  
