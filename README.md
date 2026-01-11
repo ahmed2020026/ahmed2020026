@@ -75,9 +75,6 @@ Built the full front-end of an educational platform including Home, Courses, Cou
   <a href="mailto:ahmedsamirhad17@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoOnly=true"/>
   </a>
-  <a href="https://github.com/a7med-samir">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoOnly=true"/>
-  </a>
 </p>
 
 ---
